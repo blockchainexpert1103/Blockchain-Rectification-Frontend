@@ -5,7 +5,7 @@ import { WagmiConfig } from 'wagmi'
 import { arbitrum, mainnet } from 'viem/chains'
 
 // 1. Get projectId
-const projectId = '57c3ed3f7633af987eda789d503edfee'
+const projectId = '33627a7ac8db29399d412d93315e2a63'
 
 // 2. Create wagmiConfig
 const metadata = {
